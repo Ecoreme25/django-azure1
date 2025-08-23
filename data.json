@@ -1,0 +1,2399 @@
+[
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "accounts",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "accounts",
+        "model": "onetimepassword"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "token_blacklist",
+        "model": "blacklistedtoken"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "token_blacklist",
+        "model": "outstandingtoken"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sales_record",
+        "model": "sales"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sales",
+        "model": "product"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sales",
+        "model": "inventorylog"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sales",
+        "model": "sale"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sales",
+        "model": "payment"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "fields": {
+        "app_label": "sales",
+        "model": "saleitem"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "64gx8mofjekjf3457r64w1c0kqt8eyv2",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1unM1M:ELfO7t3RllnHyErYKDqDOibWBZ4gNZQyqkkMdtzPeZ0",
+        "expire_date": "2025-08-30T18:52:52.367Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "8k89eklnvyhmsk7kpmexqw0un1gjysnb",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1um7lz:Q1BgWxEYiU6l2sgHTQf-E_Hekm4jv9tQgpqH8NuWyaM",
+        "expire_date": "2025-08-27T09:27:55.259Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "biezsijhpydrzmupa6k41mwaitgudzos",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1unNH3:dX_gRudOnc34AhHPLpb45pJm3JjbS3Rowx0rvuT9SP8",
+        "expire_date": "2025-08-30T20:13:09.448Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "go091yq5yzgcejx5fzvz7rfk61m7gd7i",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1tscz8:hxfPq0NodVfXy5lKWqeJImnp2dQkZwkkHVRnqUPSQrE",
+        "expire_date": "2025-03-27T07:28:06.392Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "gqjc73o6cwixfmqvejlm3ngq16j4azpc",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1tg5pf:BWPAQK1gmvJVfynN-yMnnNsVVk_nFDKeTgttZWZnOAQ",
+        "expire_date": "2025-02-20T17:38:31.634Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "j7z76bdy1wnva29qrastuan6entxq0ys",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1uVPB8:kpWVwPeS4cMXAWx50qm0Z91TpUA_28M6CcjOkOlxQ8o",
+        "expire_date": "2025-07-12T06:36:46.574Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "lc8ekcma20xpq15hijc3v8a4xuf4rysd",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1umRON:-jyRvf_dTUTuJW1cfF-s7i5zVjuHGyS41Y5RKVKdmxE",
+        "expire_date": "2025-08-28T06:24:51.866Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ml8gxjwfyxk5wswlhbq6r0ktg4hop384",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1taRnG:3b4Y2icoC7v6v_4lXZWfi9ZG_x1Kcd8arApCnj4uJX0",
+        "expire_date": "2025-02-05T03:52:42.006Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "nh5s2yjlsw6hsndmq9rrdnx8z0gbkkm7",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1tiIqD:Kx9-D3MhvYLhRjCg_prr9Isc4bm0tb05XWEttJ65CnM",
+        "expire_date": "2025-02-26T19:56:13.792Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "vquop3qbbipldi1guh9ypxsohfagb17g",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQRO_iGln2-hco6TmDtd51cADZUpxUiLuTSCmgnHlv5i0irkuJa89znFhchBan3y4hPXPdAT-w3pukVpd5SnJX5EG7vDXOr-vh_h0U7GVbm3wGzsYyMgRU1sA4eNgiAbnsSIFPYyBKPqAmBuXYoE_BKbKO9CA-X_ZUOEU:1tmH1j:-ZJ0CV3cZTcRkt2tNG4lTF9xfU_6hEs98OOc8ug18mg",
+        "expire_date": "2025-03-09T18:48:31.745Z"
+    }
+},
+{
+    "model": "token_blacklist.blacklistedtoken",
+    "pk": 1,
+    "fields": {
+        "token": 4,
+        "blacklisted_at": "2025-02-07T04:29:29.941Z"
+    }
+},
+{
+    "model": "token_blacklist.blacklistedtoken",
+    "pk": 2,
+    "fields": {
+        "token": 5,
+        "blacklisted_at": "2025-02-07T04:33:50.399Z"
+    }
+},
+{
+    "model": "token_blacklist.blacklistedtoken",
+    "pk": 3,
+    "fields": {
+        "token": 10,
+        "blacklisted_at": "2025-02-08T07:57:51.234Z"
+    }
+},
+{
+    "model": "token_blacklist.blacklistedtoken",
+    "pk": 4,
+    "fields": {
+        "token": 39,
+        "blacklisted_at": "2025-06-28T16:23:44.336Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 1,
+    "fields": {
+        "product_name": "Ginger",
+        "customer_name": "Mrs. Joy",
+        "quantity": 4,
+        "amount": "4001.00",
+        "payment_method": "Cash",
+        "status": "Paid",
+        "created_at": "2025-02-09T15:21:45.846Z",
+        "updated_at": "2025-07-01T15:03:36.871Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 2,
+    "fields": {
+        "product_name": "Coconut oil",
+        "customer_name": "Mr. Ali",
+        "quantity": 5,
+        "amount": "50000.00",
+        "payment_method": "Transfer",
+        "status": "Pending",
+        "created_at": "2025-02-10T17:42:53.806Z",
+        "updated_at": "2025-02-10T17:42:53.806Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 3,
+    "fields": {
+        "product_name": "Black seed",
+        "customer_name": "Happiness",
+        "quantity": 10,
+        "amount": "12000.00",
+        "payment_method": "Transfer",
+        "status": "Paid",
+        "created_at": "2025-02-10T17:43:41.555Z",
+        "updated_at": "2025-07-01T20:44:24.942Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 4,
+    "fields": {
+        "product_name": "Orange snack",
+        "customer_name": "John",
+        "quantity": 9,
+        "amount": "8000.00",
+        "payment_method": "Cash",
+        "status": "Paid",
+        "created_at": "2025-02-11T14:37:57.118Z",
+        "updated_at": "2025-02-11T14:37:57.118Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 5,
+    "fields": {
+        "product_name": "Pineapple snack",
+        "customer_name": "Caleb",
+        "quantity": 11,
+        "amount": "10000.00",
+        "payment_method": "Transfer",
+        "status": "Pending",
+        "created_at": "2025-02-11T14:38:28.767Z",
+        "updated_at": "2025-07-01T15:10:52.840Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 6,
+    "fields": {
+        "product_name": "Pineapple snack2",
+        "customer_name": "Caleb2",
+        "quantity": 19,
+        "amount": "6000.00",
+        "payment_method": "Transfer",
+        "status": "Pending",
+        "created_at": "2025-02-11T14:38:58.478Z",
+        "updated_at": "2025-02-11T14:38:58.478Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 7,
+    "fields": {
+        "product_name": "Pineapple snack3",
+        "customer_name": "Caleb4",
+        "quantity": 6,
+        "amount": "12000.00",
+        "payment_method": "Cash",
+        "status": "Paid",
+        "created_at": "2025-02-11T14:39:22.811Z",
+        "updated_at": "2025-02-11T14:39:22.812Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 8,
+    "fields": {
+        "product_name": "Pineapple snack4",
+        "customer_name": "Caleb6",
+        "quantity": 9,
+        "amount": "9000.00",
+        "payment_method": "Cash",
+        "status": "Paid",
+        "created_at": "2025-02-11T14:39:41.142Z",
+        "updated_at": "2025-02-11T14:39:41.142Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 9,
+    "fields": {
+        "product_name": "Potato snack",
+        "customer_name": "Musa",
+        "quantity": 19,
+        "amount": "60000.00",
+        "payment_method": "Cash",
+        "status": "Paid",
+        "created_at": "2025-02-11T14:40:15.754Z",
+        "updated_at": "2025-02-11T14:40:15.754Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 10,
+    "fields": {
+        "product_name": "Potato snack",
+        "customer_name": "Moses",
+        "quantity": 19,
+        "amount": "60000.00",
+        "payment_method": "Cash",
+        "status": "Paid",
+        "created_at": "2025-02-11T14:40:27.990Z",
+        "updated_at": "2025-02-11T14:40:27.990Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 11,
+    "fields": {
+        "product_name": "Potato snack",
+        "customer_name": "Ismail",
+        "quantity": 19,
+        "amount": "60000.00",
+        "payment_method": "Cash",
+        "status": "Paid",
+        "created_at": "2025-02-11T14:40:39.957Z",
+        "updated_at": "2025-02-11T14:40:39.957Z"
+    }
+},
+{
+    "model": "sales_record.sales",
+    "pk": 12,
+    "fields": {
+        "product_name": "Potato snack",
+        "customer_name": "Yuusuf",
+        "quantity": 19,
+        "amount": "60000.00",
+        "payment_method": "Cash",
+        "status": "Paid",
+        "created_at": "2025-02-11T14:41:20.053Z",
+        "updated_at": "2025-02-11T14:41:20.053Z"
+    }
+},
+{
+    "model": "sales.product",
+    "pk": 1,
+    "fields": {
+        "name": "COCONUT OIL",
+        "description": "Good oil for many purposes",
+        "price": "4000.00",
+        "stock_quantity": 10,
+        "created_at": "2025-02-24T17:41:52.568Z",
+        "updated_at": "2025-02-24T17:41:52.568Z"
+    }
+},
+{
+    "model": "sales.product",
+    "pk": 2,
+    "fields": {
+        "name": "BLACK SEED",
+        "description": "Good seed for many purposes",
+        "price": "3000.00",
+        "stock_quantity": 6,
+        "created_at": "2025-02-24T17:43:46.003Z",
+        "updated_at": "2025-02-24T17:43:46.003Z"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": [
+            "admin",
+            "logentry"
+        ],
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view permission",
+        "content_type": [
+            "auth",
+            "permission"
+        ],
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view group",
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view content type",
+        "content_type": [
+            "contenttypes",
+            "contenttype"
+        ],
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view session",
+        "content_type": [
+            "sessions",
+            "session"
+        ],
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add user",
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change user",
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete user",
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view user",
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add one time password",
+        "content_type": [
+            "accounts",
+            "onetimepassword"
+        ],
+        "codename": "add_onetimepassword"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change one time password",
+        "content_type": [
+            "accounts",
+            "onetimepassword"
+        ],
+        "codename": "change_onetimepassword"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete one time password",
+        "content_type": [
+            "accounts",
+            "onetimepassword"
+        ],
+        "codename": "delete_onetimepassword"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view one time password",
+        "content_type": [
+            "accounts",
+            "onetimepassword"
+        ],
+        "codename": "view_onetimepassword"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add blacklisted token",
+        "content_type": [
+            "token_blacklist",
+            "blacklistedtoken"
+        ],
+        "codename": "add_blacklistedtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change blacklisted token",
+        "content_type": [
+            "token_blacklist",
+            "blacklistedtoken"
+        ],
+        "codename": "change_blacklistedtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete blacklisted token",
+        "content_type": [
+            "token_blacklist",
+            "blacklistedtoken"
+        ],
+        "codename": "delete_blacklistedtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view blacklisted token",
+        "content_type": [
+            "token_blacklist",
+            "blacklistedtoken"
+        ],
+        "codename": "view_blacklistedtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add outstanding token",
+        "content_type": [
+            "token_blacklist",
+            "outstandingtoken"
+        ],
+        "codename": "add_outstandingtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change outstanding token",
+        "content_type": [
+            "token_blacklist",
+            "outstandingtoken"
+        ],
+        "codename": "change_outstandingtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete outstanding token",
+        "content_type": [
+            "token_blacklist",
+            "outstandingtoken"
+        ],
+        "codename": "delete_outstandingtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view outstanding token",
+        "content_type": [
+            "token_blacklist",
+            "outstandingtoken"
+        ],
+        "codename": "view_outstandingtoken"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add sales",
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "codename": "add_sales"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change sales",
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "codename": "change_sales"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete sales",
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "codename": "delete_sales"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view sales",
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "codename": "view_sales"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add product",
+        "content_type": [
+            "sales",
+            "product"
+        ],
+        "codename": "add_product"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change product",
+        "content_type": [
+            "sales",
+            "product"
+        ],
+        "codename": "change_product"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete product",
+        "content_type": [
+            "sales",
+            "product"
+        ],
+        "codename": "delete_product"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view product",
+        "content_type": [
+            "sales",
+            "product"
+        ],
+        "codename": "view_product"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add inventory log",
+        "content_type": [
+            "sales",
+            "inventorylog"
+        ],
+        "codename": "add_inventorylog"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change inventory log",
+        "content_type": [
+            "sales",
+            "inventorylog"
+        ],
+        "codename": "change_inventorylog"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete inventory log",
+        "content_type": [
+            "sales",
+            "inventorylog"
+        ],
+        "codename": "delete_inventorylog"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view inventory log",
+        "content_type": [
+            "sales",
+            "inventorylog"
+        ],
+        "codename": "view_inventorylog"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add sale",
+        "content_type": [
+            "sales",
+            "sale"
+        ],
+        "codename": "add_sale"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change sale",
+        "content_type": [
+            "sales",
+            "sale"
+        ],
+        "codename": "change_sale"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete sale",
+        "content_type": [
+            "sales",
+            "sale"
+        ],
+        "codename": "delete_sale"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view sale",
+        "content_type": [
+            "sales",
+            "sale"
+        ],
+        "codename": "view_sale"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add payment",
+        "content_type": [
+            "sales",
+            "payment"
+        ],
+        "codename": "add_payment"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change payment",
+        "content_type": [
+            "sales",
+            "payment"
+        ],
+        "codename": "change_payment"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete payment",
+        "content_type": [
+            "sales",
+            "payment"
+        ],
+        "codename": "delete_payment"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view payment",
+        "content_type": [
+            "sales",
+            "payment"
+        ],
+        "codename": "view_payment"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can add sale item",
+        "content_type": [
+            "sales",
+            "saleitem"
+        ],
+        "codename": "add_saleitem"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can change sale item",
+        "content_type": [
+            "sales",
+            "saleitem"
+        ],
+        "codename": "change_saleitem"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can delete sale item",
+        "content_type": [
+            "sales",
+            "saleitem"
+        ],
+        "codename": "delete_saleitem"
+    }
+},
+{
+    "model": "auth.permission",
+    "fields": {
+        "name": "Can view sale item",
+        "content_type": [
+            "sales",
+            "saleitem"
+        ],
+        "codename": "view_saleitem"
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$01EwDL87bFWy7bwzjSlYrA$kzlPL6qSneabd0kDCUA8FsjIk3bRFL71Qt6nGcQEgrg=",
+        "email": "admin1@gmail.com",
+        "first_name": "adminfirstname",
+        "last_name": "adminlastname",
+        "role": "admin",
+        "is_staff": true,
+        "is_superuser": true,
+        "is_verified": true,
+        "is_active": true,
+        "date_joined": "2025-01-22T03:44:38.570Z",
+        "last_login": "2025-08-16T20:13:09.432Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$xppibhnktBm0RYpcm7tqPN$gg9PUYeC3a9AN+jOEG+pk/7p7f12Iq6dcoLQ7dhSF/0=",
+        "email": "testuser1@gmail.com",
+        "first_name": "john",
+        "last_name": "doe",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": false,
+        "is_active": true,
+        "date_joined": "2025-01-22T20:26:28.371Z",
+        "last_login": "2025-01-22T20:26:28.371Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$RStt4hYDoWRT6afXwHypnO$NzSkn07LQZ7YU26z/2u+J+EjR0ZEfKgbq3boNdyuJyY=",
+        "email": "testuser2@gmail.com",
+        "first_name": "james",
+        "last_name": "paul",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": false,
+        "is_active": true,
+        "date_joined": "2025-01-23T02:02:58.297Z",
+        "last_login": "2025-01-23T02:02:58.297Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$3Yf3sDtnOfAUQCZ9aIdVKa$CYnin6lGy35SD/xZU8EuXdDPWGuEBGKNEefAtBfzFak=",
+        "email": "testuser3@gmail.com",
+        "first_name": "Musa",
+        "last_name": "Iisa",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": true,
+        "is_active": true,
+        "date_joined": "2025-01-23T02:08:32.537Z",
+        "last_login": "2025-01-30T07:31:23.502Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$J0UDKLEZ7Ea9CnbGbvXNVO$TlqDKsHOja07IChp6GqB5gMQ0UK2WwHw99nPejgSkR4=",
+        "email": "testuser5@gmail.com",
+        "first_name": "Musa2",
+        "last_name": "Iisa2",
+        "role": "employee",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": true,
+        "is_active": true,
+        "date_joined": "2025-01-25T08:13:08.766Z",
+        "last_login": "2025-02-13T15:01:14.806Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$oqf5yNXj37Q24tbu098cyv$H6xm85Q90RdJA0wIqrvzJ7M2M/TDrEvfshCl7YMP6+M=",
+        "email": "testuser6@gmail.com",
+        "first_name": "Musa6",
+        "last_name": "Iisa6",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": true,
+        "is_active": true,
+        "date_joined": "2025-01-25T17:28:34.063Z",
+        "last_login": "2025-02-03T14:50:51.764Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$T9H91ymjSJkwAji75qRxlA$gMEJ4bVK9Du9O0lD7uqFgjA+V2eFi6w7WIq+i+0csqQ=",
+        "email": "testuser7@gmail.com",
+        "first_name": "Musa7",
+        "last_name": "Iisa7",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": false,
+        "is_active": true,
+        "date_joined": "2025-01-26T04:50:11.478Z",
+        "last_login": "2025-01-26T04:50:11.478Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$cfoHIIdWU2uNgmEDUCnwmE$EhfYfG9QUBjgxzcKKNUd/24QN5GyIShfS96hf5Rlfkg=",
+        "email": "testuser8@gmail.com",
+        "first_name": "Musa8",
+        "last_name": "Iisa8",
+        "role": "employee",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": true,
+        "is_active": true,
+        "date_joined": "2025-01-27T18:47:47.119Z",
+        "last_login": "2025-02-13T14:36:28.793Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$Ah5zLlu7uPO1p5G2m1J4qO$cx13408LqYTKGhkaPwmSiA/RfcEOgATH32h7kzszLH0=",
+        "email": "testuser9@gmail.com",
+        "first_name": "Musa9",
+        "last_name": "Iisa9",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": true,
+        "is_active": true,
+        "date_joined": "2025-02-03T12:01:44.691Z",
+        "last_login": "2025-02-03T12:02:25.519Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$nhK5aMw12eVymxEZlsUWxF$jIEuoPGsW3NkJu9G6R1/YZ43RPHps0+ih3NdA7HM+EA=",
+        "email": "testuser910@gmail.com",
+        "first_name": "Musa10",
+        "last_name": "Iisa10",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": true,
+        "is_active": true,
+        "date_joined": "2025-02-06T17:43:16.902Z",
+        "last_login": "2025-02-06T17:51:10.148Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$3W9KYpu2rsBJXoh5wM5euW$qPE/BEcVD+CB5/foARth+WMK0641xHTj7XL24A94XUo=",
+        "email": "testuser11@gmail.com",
+        "first_name": "Paul",
+        "last_name": "Peace",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": true,
+        "is_active": true,
+        "date_joined": "2025-02-13T14:20:59.943Z",
+        "last_login": "2025-02-14T07:29:37.450Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$ZGdIWTckn6b1UD3Xev1suC$1oQo3goohNItSf4CmEHT3pBxy0EjyU0oj5tFRcCZhUc=",
+        "email": "testuser12@gmail.com",
+        "first_name": "Muhsin",
+        "last_name": "Adeola",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": false,
+        "is_active": true,
+        "date_joined": "2025-02-13T17:37:49.439Z",
+        "last_login": "2025-02-13T17:37:49.439Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$urFleMdRiySMj1jKUtMW8Y$6CSjej2SZNv4qk2VldZe0CvG8j1d2nrOuR5JjerLhBk=",
+        "email": "testuser13@gmail.com",
+        "first_name": "Muhsinah",
+        "last_name": "Adeola",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": false,
+        "is_active": true,
+        "date_joined": "2025-02-13T17:39:24.936Z",
+        "last_login": "2025-02-13T17:39:24.936Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$dNTj8Vn31kqyOath99B2nt$wIV3aiHrHPMLa4nWSMskkKdcUUhY0LPPa2DxiSOp2o8=",
+        "email": "testuser14@gmail.com",
+        "first_name": "Muhsinah2",
+        "last_name": "Adeola2",
+        "role": "employee",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": false,
+        "is_active": true,
+        "date_joined": "2025-02-13T20:38:15.892Z",
+        "last_login": "2025-02-13T20:38:15.892Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$8CS5lbFJ5ZB7uVsfhxdtLA$TbS79KP51QrGFOWkyR4Rbp7hRSkmiATCVLiqBBNlZLs=",
+        "email": "newcustomer1@gmail.com",
+        "first_name": "Mercy",
+        "last_name": "Rose",
+        "role": "customer",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": false,
+        "is_active": true,
+        "date_joined": "2025-02-24T11:38:08.879Z",
+        "last_login": "2025-02-24T11:38:08.879Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$xQ985xW4kDz5ZtI8FDs8M1$Zk6sySQls5l864GBmR8/28kERbl8LPDMZSmJrwHiZKc=",
+        "email": "newemployee1@gmail.com",
+        "first_name": "Mercy",
+        "last_name": "Rose",
+        "role": "employee",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": false,
+        "is_active": true,
+        "date_joined": "2025-02-24T11:40:59.030Z",
+        "last_login": "2025-02-24T11:40:59.030Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$8KNojgzhE7RJigXnRQUOH4$p2t5CFgSnmGytHpJ3rpCXzMZa0MT7c1vFkHShWRVo3Y=",
+        "email": "rtest1@example.com",
+        "first_name": "rtest1",
+        "last_name": "rtest1",
+        "role": "employee",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": true,
+        "is_active": true,
+        "date_joined": "2025-06-28T13:45:39.569Z",
+        "last_login": "2025-06-28T17:06:25.063Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.user",
+    "fields": {
+        "password": "pbkdf2_sha256$870000$je04veHtjodB04FZg4GKhk$HkEzLoZKkCt4IOjDgQLMRvP5spWJ2hZZdXiMvETyJVc=",
+        "email": "admin1@example.com",
+        "first_name": "admin1",
+        "last_name": "admin1",
+        "role": "admin",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_verified": false,
+        "is_active": true,
+        "date_joined": "2025-08-14T06:33:09.394Z",
+        "last_login": "2025-08-14T06:33:09.394Z",
+        "auth_provider": "email",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "testuser1@gmail.com"
+        ],
+        "code": "646873"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "testuser2@gmail.com"
+        ],
+        "code": "766854"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "testuser3@gmail.com"
+        ],
+        "code": "153971"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 4,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "code": "174718"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "testuser6@gmail.com"
+        ],
+        "code": "449639"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 6,
+    "fields": {
+        "user": [
+            "testuser7@gmail.com"
+        ],
+        "code": "785171"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 7,
+    "fields": {
+        "user": [
+            "testuser8@gmail.com"
+        ],
+        "code": "554196"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 8,
+    "fields": {
+        "user": [
+            "testuser9@gmail.com"
+        ],
+        "code": "194229"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 9,
+    "fields": {
+        "user": [
+            "testuser910@gmail.com"
+        ],
+        "code": "138622"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 10,
+    "fields": {
+        "user": [
+            "testuser11@gmail.com"
+        ],
+        "code": "991555"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 11,
+    "fields": {
+        "user": [
+            "testuser12@gmail.com"
+        ],
+        "code": "281362"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 12,
+    "fields": {
+        "user": [
+            "testuser13@gmail.com"
+        ],
+        "code": "778825"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 13,
+    "fields": {
+        "user": [
+            "testuser14@gmail.com"
+        ],
+        "code": "789547"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 14,
+    "fields": {
+        "user": [
+            "newcustomer1@gmail.com"
+        ],
+        "code": "161764"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 15,
+    "fields": {
+        "user": [
+            "newemployee1@gmail.com"
+        ],
+        "code": "344641"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 16,
+    "fields": {
+        "user": [
+            "rtest1@example.com"
+        ],
+        "code": "685588"
+    }
+},
+{
+    "model": "accounts.onetimepassword",
+    "pk": 17,
+    "fields": {
+        "user": [
+            "admin1@example.com"
+        ],
+        "code": "466262"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "testuser9@gmail.com"
+        ],
+        "jti": "b1ff723d4e1f43cd80abbddb7f1ca474",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczODY3MTA1OCwiaWF0IjoxNzM4NTg0NjU4LCJqdGkiOiJiMWZmNzIzZDRlMWY0M2NkODBhYmJkZGI3ZjFjYTQ3NCIsInVzZXJfaWQiOjl9.regZx8sRDSTbmLEUIO8dzWk9-ViMbP7P-XvW5WKoKxc",
+        "created_at": "2025-02-03T12:10:58.363Z",
+        "expires_at": "2025-02-04T12:10:58Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "testuser6@gmail.com"
+        ],
+        "jti": "781327b7e22a424a9ea7139c1eb04ad2",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczODc2NzA3MiwiaWF0IjoxNzM4NTk0MjcyLCJqdGkiOiI3ODEzMjdiN2UyMmE0MjRhOWVhNzEzOWMxZWIwNGFkMiIsInVzZXJfaWQiOjZ9.lJYcmammZjEbAQYpgrLJ6vvanhTS4aVmtjFotykA1IA",
+        "created_at": "2025-02-03T14:51:12.149Z",
+        "expires_at": "2025-02-05T14:51:12Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "testuser910@gmail.com"
+        ],
+        "jti": "0f9cd79285d644ce82f5bd0e847edb6d",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczODk1MDkwNywiaWF0IjoxNzM4ODY0NTA3LCJqdGkiOiIwZjljZDc5Mjg1ZDY0NGNlODJmNWJkMGU4NDdlZGI2ZCIsInVzZXJfaWQiOjEwfQ.3lM3Gj5r3n3SOC1Jpa96JG5Lf15d8gSrAqC-0rA8Eq8",
+        "created_at": "2025-02-06T17:55:07.596Z",
+        "expires_at": "2025-02-07T17:55:07Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 4,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "b3cfd3b5b16e4969a0b5561a892024e4",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczODk1MzE4NSwiaWF0IjoxNzM4ODY2Nzg1LCJqdGkiOiJiM2NmZDNiNWIxNmU0OTY5YTBiNTU2MWE4OTIwMjRlNCIsInVzZXJfaWQiOjV9.Q4zOcm0PeCw7l9zYfvTno-Wnra84yNVegyUqjExJ-90",
+        "created_at": "2025-02-06T18:33:05.284Z",
+        "expires_at": "2025-02-07T18:33:05Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 5,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "316ac2e34ca0472eb8dcc1f517ce46c5",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczODk4OTExNiwiaWF0IjoxNzM4OTAyNzE2LCJqdGkiOiIzMTZhYzJlMzRjYTA0NzJlYjhkY2MxZjUxN2NlNDZjNSIsInVzZXJfaWQiOjV9.eQzBvWRtxi1wsTeYbW1V8UUPRHQP2i8gfXO65SWyiMI",
+        "created_at": "2025-02-07T04:31:56.758Z",
+        "expires_at": "2025-02-08T04:31:56Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 6,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "b9a0d15874f5420da60343806dedcb3d",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTAzMzI2NywiaWF0IjoxNzM4OTQ2ODY3LCJqdGkiOiJiOWEwZDE1ODc0ZjU0MjBkYTYwMzQzODA2ZGVkY2IzZCIsInVzZXJfaWQiOjV9.fS-jbQItkHzmS2VDFy-oA_aN-rUjQu9AHQ6tlOnYqpw",
+        "created_at": "2025-02-07T16:47:47.326Z",
+        "expires_at": "2025-02-08T16:47:47Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 7,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "6de5c2f7605f41f6a7a2448267a7d08e",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTAzMzczMywiaWF0IjoxNzM4OTQ3MzMzLCJqdGkiOiI2ZGU1YzJmNzYwNWY0MWY2YTdhMjQ0ODI2N2E3ZDA4ZSIsInVzZXJfaWQiOjV9.hW82CeU4nLmjYwlkv5FJgIKHV5bZ98Go0qZtL8q0Yiw",
+        "created_at": "2025-02-07T16:55:33.037Z",
+        "expires_at": "2025-02-08T16:55:33Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 8,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "03cbc0996b44491abb66c854f07b8343",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTAzMzg4NCwiaWF0IjoxNzM4OTQ3NDg0LCJqdGkiOiIwM2NiYzA5OTZiNDQ0OTFhYmI2NmM4NTRmMDdiODM0MyIsInVzZXJfaWQiOjV9.62ZdhwsJCyVw8s53qAaRet2dNqwKd5KeDhUYOW0OwjU",
+        "created_at": "2025-02-07T16:58:04.227Z",
+        "expires_at": "2025-02-08T16:58:04Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 9,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "31be786e89a446239e425a1314a1cba5",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTAzNDc0MiwiaWF0IjoxNzM4OTQ4MzQyLCJqdGkiOiIzMWJlNzg2ZTg5YTQ0NjIzOWU0MjVhMTMxNGExY2JhNSIsInVzZXJfaWQiOjV9.UwKBOYHJyxrAPpQIx_3N06MfOHvcNX4tY8M93_wS2Cw",
+        "created_at": "2025-02-07T17:12:22.393Z",
+        "expires_at": "2025-02-08T17:12:22Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 10,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "9019472eb5224737a6466ba6c43c42f2",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTA4NzcxOCwiaWF0IjoxNzM5MDAxMzE4LCJqdGkiOiI5MDE5NDcyZWI1MjI0NzM3YTY0NjZiYTZjNDNjNDJmMiIsInVzZXJfaWQiOjV9.-2aAJ3BN71XUFqXks0mdUQyl3jiQ7tXYX9n7vqqD6Kw",
+        "created_at": "2025-02-08T07:55:18.978Z",
+        "expires_at": "2025-02-09T07:55:18Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 11,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "e5423e2cc1b44354960858e23e25a39a",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTEyMDgxMSwiaWF0IjoxNzM5MDM0NDExLCJqdGkiOiJlNTQyM2UyY2MxYjQ0MzU0OTYwODU4ZTIzZTI1YTM5YSIsInVzZXJfaWQiOjV9.PRSKXvQ0tLCyUrvv_0QzOWqYJCoe9nBMEtN5pybWJS4",
+        "created_at": "2025-02-08T17:06:51.078Z",
+        "expires_at": "2025-02-09T17:06:51Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 12,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "6390792c6608403da783d465a0fe4003",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTQ2NjE5MCwiaWF0IjoxNzM5Mzc5NzkwLCJqdGkiOiI2MzkwNzkyYzY2MDg0MDNkYTc4M2Q0NjVhMGZlNDAwMyIsInVzZXJfaWQiOjF9.AHAf3LaT-L3fWCAkgkRjeA-y9GlH3NjS_GVXGGkuqY4",
+        "created_at": "2025-02-12T17:03:10.515Z",
+        "expires_at": "2025-02-13T17:03:10Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 13,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "4bdfbcbc3fdd44d0b817e59ef54b665d",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTQ2NjMyMCwiaWF0IjoxNzM5Mzc5OTIwLCJqdGkiOiI0YmRmYmNiYzNmZGQ0NGQwYjgxN2U1OWVmNTRiNjY1ZCIsInVzZXJfaWQiOjV9.zHYqwki57kV5m9H6HfiUNkNq8XabA553-Gc0xpkJKUo",
+        "created_at": "2025-02-12T17:05:20.029Z",
+        "expires_at": "2025-02-13T17:05:20Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 14,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "74443d9875b64520af48fc9e1e615f18",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTQ2OTExOCwiaWF0IjoxNzM5MzgyNzE4LCJqdGkiOiI3NDQ0M2Q5ODc1YjY0NTIwYWY0OGZjOWUxZTYxNWYxOCIsInVzZXJfaWQiOjV9.IaFAg79_L-EV5EMOvWDt_SuzgoWJS1kKdLv0RtKAQDw",
+        "created_at": "2025-02-12T17:51:58.836Z",
+        "expires_at": "2025-02-13T17:51:58Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 15,
+    "fields": {
+        "user": [
+            "testuser8@gmail.com"
+        ],
+        "jti": "9651072c40154ecaa92c8ded7f9e53fc",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU0Mzc5MywiaWF0IjoxNzM5NDU3MzkzLCJqdGkiOiI5NjUxMDcyYzQwMTU0ZWNhYTkyYzhkZWQ3ZjllNTNmYyIsInVzZXJfaWQiOjh9.Vmo9IHI6QAB_n5FE31fHWHFLt7KLnFL_nBgVJTr86Js",
+        "created_at": "2025-02-13T14:36:33.673Z",
+        "expires_at": "2025-02-14T14:36:33Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 16,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "a40bc185effe496cbddf846928bc4012",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU0NTE4OSwiaWF0IjoxNzM5NDU4Nzg5LCJqdGkiOiJhNDBiYzE4NWVmZmU0OTZjYmRkZjg0NjkyOGJjNDAxMiIsInVzZXJfaWQiOjV9.Y3Rw5rSZpyNWuSveizoTJBxmXPjwVhARr8ZUUo0WOaY",
+        "created_at": "2025-02-13T14:59:49.042Z",
+        "expires_at": "2025-02-14T14:59:49Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 17,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "62a1b9394a9344f990a4380a6b471c54",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU0NTIxOCwiaWF0IjoxNzM5NDU4ODE4LCJqdGkiOiI2MmExYjkzOTRhOTM0NGY5OTBhNDM4MGE2YjQ3MWM1NCIsInVzZXJfaWQiOjV9.nFyhihcJQT-E_Ar4Ubq_x0RpZGf2H1mk_U1oZyCdFco",
+        "created_at": "2025-02-13T15:00:18.902Z",
+        "expires_at": "2025-02-14T15:00:18Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 18,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "250fd84fdace4ac7a2e7dc29eaf7ed09",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU0NjA1OCwiaWF0IjoxNzM5NDU5NjU4LCJqdGkiOiIyNTBmZDg0ZmRhY2U0YWM3YTJlN2RjMjllYWY3ZWQwOSIsInVzZXJfaWQiOjV9.CziOhbqGJx2yGpgqOP5eZ8n6oXnUy199aqFMhFuErUY",
+        "created_at": "2025-02-13T15:14:18.859Z",
+        "expires_at": "2025-02-14T15:14:18Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 19,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "75bd521d1e664108a90bbc8d354faab9",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU0Njc0MiwiaWF0IjoxNzM5NDYwMzQyLCJqdGkiOiI3NWJkNTIxZDFlNjY0MTA4YTkwYmJjOGQzNTRmYWFiOSIsInVzZXJfaWQiOjV9.q7-1vdg-WB9Y6hp5UsXGaJuaHEjvTPxoUiiCYg6wAjM",
+        "created_at": "2025-02-13T15:25:42.553Z",
+        "expires_at": "2025-02-14T15:25:42Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 20,
+    "fields": {
+        "user": [
+            "testuser5@gmail.com"
+        ],
+        "jti": "8b8b712f83ed4dc98e50a48bc236597b",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU0Njc1NiwiaWF0IjoxNzM5NDYwMzU2LCJqdGkiOiI4YjhiNzEyZjgzZWQ0ZGM5OGU1MGE0OGJjMjM2NTk3YiIsInVzZXJfaWQiOjV9.-dQNF8mII8h0gYoibBnMUIN4EPEaPLCZAKEdHh6bHxE",
+        "created_at": "2025-02-13T15:25:56.413Z",
+        "expires_at": "2025-02-14T15:25:56Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 21,
+    "fields": {
+        "user": [
+            "testuser11@gmail.com"
+        ],
+        "jti": "c7ab83f27b2846d3bfa037e61868a347",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU0NjgxNCwiaWF0IjoxNzM5NDYwNDE0LCJqdGkiOiJjN2FiODNmMjdiMjg0NmQzYmZhMDM3ZTYxODY4YTM0NyIsInVzZXJfaWQiOjExfQ.Vj4TXddJqLAV7YyMaIRCqvqpoZAppqIEPvmOCN2sc54",
+        "created_at": "2025-02-13T15:26:54.195Z",
+        "expires_at": "2025-02-14T15:26:54Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 22,
+    "fields": {
+        "user": [
+            "testuser11@gmail.com"
+        ],
+        "jti": "d24083e730004982aa665b5f1749cc4c",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU1NDEzNSwiaWF0IjoxNzM5NDY3NzM1LCJqdGkiOiJkMjQwODNlNzMwMDA0OTgyYWE2NjViNWYxNzQ5Y2M0YyIsInVzZXJfaWQiOjExfQ.eyCBGf-6AcawoSqaBSCzpuGMjHbpr-UydXr6CUhT8Qw",
+        "created_at": "2025-02-13T17:28:55.142Z",
+        "expires_at": "2025-02-14T17:28:55Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 23,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "8d770fdfd0224a2cbd218ca5178dd473",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU1NDIzNiwiaWF0IjoxNzM5NDY3ODM2LCJqdGkiOiI4ZDc3MGZkZmQwMjI0YTJjYmQyMThjYTUxNzhkZDQ3MyIsInVzZXJfaWQiOjF9.7X2XPfxJ3zTVoRa81mnnRt7I4gPrbTWssyUIUoIAHYU",
+        "created_at": "2025-02-13T17:30:36.371Z",
+        "expires_at": "2025-02-14T17:30:36Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 24,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "02a5743e61bd4dbf8f87efbcca6c1f7c",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU1NDM3MSwiaWF0IjoxNzM5NDY3OTcxLCJqdGkiOiIwMmE1NzQzZTYxYmQ0ZGJmOGY4N2VmYmNjYTZjMWY3YyIsInVzZXJfaWQiOjF9.a85LVZPhkkMs7BKF4nOZ8xIdU_7eynpf7Z_BOMDLW38",
+        "created_at": "2025-02-13T17:32:51.092Z",
+        "expires_at": "2025-02-14T17:32:51Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 25,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "336d71036fef41009ede57905f95aa2c",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU2NTYyMCwiaWF0IjoxNzM5NDc5MjIwLCJqdGkiOiIzMzZkNzEwMzZmZWY0MTAwOWVkZTU3OTA1Zjk1YWEyYyIsInVzZXJfaWQiOjF9.5u62IMjTXZ8iGmQianqTEZFWdd26YH3trRvk1o0oZnQ",
+        "created_at": "2025-02-13T20:40:20.636Z",
+        "expires_at": "2025-02-14T20:40:20Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 26,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "e484cbbf150f40a59f75bbc24adfebca",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU2NTY4NywiaWF0IjoxNzM5NDc5Mjg3LCJqdGkiOiJlNDg0Y2JiZjE1MGY0MGE1OWY3NWJiYzI0YWRmZWJjYSIsInVzZXJfaWQiOjF9.3IYJNx1e4CPS2raoAClXy2AaN7wwkGJvKXirYC6Ez7c",
+        "created_at": "2025-02-13T20:41:27.827Z",
+        "expires_at": "2025-02-14T20:41:27Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 27,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "f1abf555b62847b2bda421c78db9a074",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU2NTc4MSwiaWF0IjoxNzM5NDc5MzgxLCJqdGkiOiJmMWFiZjU1NWI2Mjg0N2IyYmRhNDIxYzc4ZGI5YTA3NCIsInVzZXJfaWQiOjF9.QAe78sEQOJVy_LnZEicBzg8UVqWwm1yynxZAQtcHg7I",
+        "created_at": "2025-02-13T20:43:01.892Z",
+        "expires_at": "2025-02-14T20:43:01Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 28,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "879502b6d33449c3b50aa7b0e2cd3c1a",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU2NjAzNiwiaWF0IjoxNzM5NDc5NjM2LCJqdGkiOiI4Nzk1MDJiNmQzMzQ0OWMzYjUwYWE3YjBlMmNkM2MxYSIsInVzZXJfaWQiOjF9.JYovWC2pszKxmBou8z7AUM0PXzkfbJdjvG5We1Gss0o",
+        "created_at": "2025-02-13T20:47:16.393Z",
+        "expires_at": "2025-02-14T20:47:16Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 29,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "600aa0c4b40447a9a9fac59c77f54b30",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU2NjI5NiwiaWF0IjoxNzM5NDc5ODk2LCJqdGkiOiI2MDBhYTBjNGI0MDQ0N2E5YTlmYWM1OWM3N2Y1NGIzMCIsInVzZXJfaWQiOjF9.Vvzp3xi5SD6o4jB_zGOgbLOqpNj5oYwIb2MM_812s-c",
+        "created_at": "2025-02-13T20:51:36.845Z",
+        "expires_at": "2025-02-14T20:51:36Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 30,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "9ed109c4343d420d97c0e96d5774c16b",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTU2NjM4NywiaWF0IjoxNzM5NDc5OTg3LCJqdGkiOiI5ZWQxMDljNDM0M2Q0MjBkOTdjMGU5NmQ1Nzc0YzE2YiIsInVzZXJfaWQiOjF9.SrjOXghWkjecZlYLSnbMxN66lnqL2wLFX5d7zQRhvKA",
+        "created_at": "2025-02-13T20:53:07.108Z",
+        "expires_at": "2025-02-14T20:53:07Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 31,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "0264ed40f76643b18e057f798dd7ebb9",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTYwNDQ5MiwiaWF0IjoxNzM5NTE4MDkyLCJqdGkiOiIwMjY0ZWQ0MGY3NjY0M2IxOGUwNTdmNzk4ZGQ3ZWJiOSIsInVzZXJfaWQiOjF9.JB8AAMwPvusJrB10ewffFU4qtOtCs8U3RFggdnG29VI",
+        "created_at": "2025-02-14T07:28:12.033Z",
+        "expires_at": "2025-02-15T07:28:12Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 32,
+    "fields": {
+        "user": [
+            "testuser11@gmail.com"
+        ],
+        "jti": "cfccb188c7224ef3a4f4b1ee92da5857",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTczOTYwNDYzNCwiaWF0IjoxNzM5NTE4MjM0LCJqdGkiOiJjZmNjYjE4OGM3MjI0ZWYzYTRmNGIxZWU5MmRhNTg1NyIsInVzZXJfaWQiOjExfQ.NVGD15EFbtOGbCBLwUJewr3G2zLebrrFz9_CQ7LWgs4",
+        "created_at": "2025-02-14T07:30:34.175Z",
+        "expires_at": "2025-02-15T07:30:34Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 33,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "7f702916133b4e4da32a75d26a381c0e",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MDQzMDgyMywiaWF0IjoxNzQwMzQ0NDIzLCJqdGkiOiI3ZjcwMjkxNjEzM2I0ZTRkYTMyYTc1ZDI2YTM4MWMwZSIsInVzZXJfaWQiOjF9.YuXPdo5lxeyMEvoakMmqXRzE4_QJ811rCEzdn_5TUXc",
+        "created_at": "2025-02-23T21:00:23.975Z",
+        "expires_at": "2025-02-24T21:00:23Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 34,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "f0bd75ef42fb4a768b7082b947010bd5",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MDQ4NjY5NiwiaWF0IjoxNzQwNDAwMjk2LCJqdGkiOiJmMGJkNzVlZjQyZmI0YTc2OGI3MDgyYjk0NzAxMGJkNSIsInVzZXJfaWQiOjF9.kn-dvukexl5x7v0OaSm1BlL6kqsvEZENo4KDW_qEu-I",
+        "created_at": "2025-02-24T12:31:36.356Z",
+        "expires_at": "2025-02-25T12:31:36Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 35,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "83a512b2baf4487fa52ce76cd91caf7b",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MDQ4NjcyNCwiaWF0IjoxNzQwNDAwMzI0LCJqdGkiOiI4M2E1MTJiMmJhZjQ0ODdmYTUyY2U3NmNkOTFjYWY3YiIsInVzZXJfaWQiOjF9.AEI2vnxsDHHb2Mcm0Z0wX4NX1df75O5eO6g4GQVn7os",
+        "created_at": "2025-02-24T12:32:04.869Z",
+        "expires_at": "2025-02-25T12:32:04Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 36,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "c507993d3baf4e17abbcafcdcfb3685a",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MTkzNzc5OCwiaWF0IjoxNzQxODUxMzk4LCJqdGkiOiJjNTA3OTkzZDNiYWY0ZTE3YWJiY2FmY2RjZmIzNjg1YSIsInVzZXJfaWQiOjF9.DfWjw6GDBaVsroIjyTI0OwLBtPS0ePWdhkx33VxZUvA",
+        "created_at": "2025-03-13T07:36:38.254Z",
+        "expires_at": "2025-03-14T07:36:38Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 37,
+    "fields": {
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "jti": "52bab3c6a5b4410eab070f9aff0e7ded",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MjIwOTk1MCwiaWF0IjoxNzQyMTIzNTUwLCJqdGkiOiI1MmJhYjNjNmE1YjQ0MTBlYWIwNzBmOWFmZjBlN2RlZCIsInVzZXJfaWQiOjF9.wdHCE99fopG8w-JZxICoHwGTApxus71hgpYhbF8wQgQ",
+        "created_at": "2025-03-16T11:12:30.045Z",
+        "expires_at": "2025-03-17T11:12:30Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 38,
+    "fields": {
+        "user": [
+            "testuser9@gmail.com"
+        ],
+        "jti": "0d26e77ddb294d549d1f32448b8f5f4f",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0MjIxMDE4OCwiaWF0IjoxNzQyMTIzNzg4LCJqdGkiOiIwZDI2ZTc3ZGRiMjk0ZDU0OWQxZjMyNDQ4YjhmNWY0ZiIsInVzZXJfaWQiOjl9.gVOnxlT9-GcKILEmvC9GQO3cXkYExEc6nNIHxJPUy1E",
+        "created_at": "2025-03-16T11:16:28.918Z",
+        "expires_at": "2025-03-17T11:16:28Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 39,
+    "fields": {
+        "user": [
+            "rtest1@example.com"
+        ],
+        "jti": "296aeb2dd9134540863ca3b6f4979d27",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc1MTIxMzkxNiwiaWF0IjoxNzUxMTI3NTE2LCJqdGkiOiIyOTZhZWIyZGQ5MTM0NTQwODYzY2EzYjZmNDk3OWQyNyIsInVzZXJfaWQiOjE3fQ.I8VP8SQsHgUNiXc49Ms1YbFeoOeJFWWrAM-NvZJRhgQ",
+        "created_at": "2025-06-28T16:18:36.301Z",
+        "expires_at": "2025-06-29T16:18:36Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 40,
+    "fields": {
+        "user": [
+            "rtest1@example.com"
+        ],
+        "jti": "c0081c9ffe334dd3b8211439e906b413",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc1MTIxNDUyNywiaWF0IjoxNzUxMTI4MTI3LCJqdGkiOiJjMDA4MWM5ZmZlMzM0ZGQzYjgyMTE0MzllOTA2YjQxMyIsInVzZXJfaWQiOjE3fQ.yFAnR7JHTEgDddrTTWZe0NNsH3GnobZ3jpz81fKq25k",
+        "created_at": "2025-06-28T16:28:47.507Z",
+        "expires_at": "2025-06-29T16:28:47Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 41,
+    "fields": {
+        "user": [
+            "rtest1@example.com"
+        ],
+        "jti": "232eb129a1434e169d80842cc15f718f",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc1MTIxNjg0MSwiaWF0IjoxNzUxMTMwNDQxLCJqdGkiOiIyMzJlYjEyOWExNDM0ZTE2OWQ4MDg0MmNjMTVmNzE4ZiIsInVzZXJfaWQiOjE3fQ.mrkpr-MxWOAVA06Cd4K0hbu2zA6iKRRZbBEO9rVitlc",
+        "created_at": "2025-06-28T17:07:21.664Z",
+        "expires_at": "2025-06-29T17:07:21Z"
+    }
+},
+{
+    "model": "token_blacklist.outstandingtoken",
+    "pk": 42,
+    "fields": {
+        "user": [
+            "rtest1@example.com"
+        ],
+        "jti": "a9cd3ba7abc740598784ce788793d611",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc1MTQ2MzM4NCwiaWF0IjoxNzUxMzc2OTg0LCJqdGkiOiJhOWNkM2JhN2FiYzc0MDU5ODc4NGNlNzg4NzkzZDYxMSIsInVzZXJfaWQiOjE3fQ.Z4iyJYzAibwha25zYW2CpcYmvvP6vaAfZZBT2pAGKRI",
+        "created_at": "2025-07-01T13:36:24.744Z",
+        "expires_at": "2025-07-02T13:36:24Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2025-02-10T17:42:54.017Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "object_id": "2",
+        "object_repr": "Sold Coconut oil to Mr. Ali for 50000 at 2025-02-10 17:42:53.806633+00:00 with the status Pending",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2025-02-10T17:43:41.559Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "object_id": "3",
+        "object_repr": "Sold Black seed to Happiness for 120000 at 2025-02-10 17:43:41.555098+00:00 with the status Pending",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2025-02-10T17:44:10.453Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "object_id": "3",
+        "object_repr": "Sold Black seed to Happiness for 120000.00 at 2025-02-10 17:43:41.555098+00:00 with the status Paid",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2025-02-12T19:41:42.760Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "admin1@gmail.com - adminfirstname adminlastname",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2025-02-13T14:35:33.222Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "object_id": "8",
+        "object_repr": "testuser8@gmail.com - Musa8 Iisa8",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2025-02-13T14:36:28.798Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "object_id": "8",
+        "object_repr": "testuser8@gmail.com - Musa8 Iisa8",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is verified\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2025-02-13T15:01:14.814Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "object_id": "5",
+        "object_repr": "testuser5@gmail.com - Musa2 Iisa2",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2025-02-13T15:27:36.933Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "object_id": "11",
+        "object_repr": "testuser11@gmail.com - Paul Peace",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2025-02-14T07:29:37.474Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "object_id": "11",
+        "object_repr": "testuser11@gmail.com - Paul Peace",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Role\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2025-02-24T17:41:52.579Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "sales",
+            "product"
+        ],
+        "object_id": "1",
+        "object_repr": "COCONUT OIL",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2025-02-24T17:43:46.005Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "sales",
+            "product"
+        ],
+        "object_id": "2",
+        "object_repr": "BLACK SEED",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2025-06-28T16:10:40.016Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "accounts",
+            "user"
+        ],
+        "object_id": "17",
+        "object_repr": "rtest1@example.com - rtest1 rtest1",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is verified\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2025-07-01T15:03:36.911Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "object_id": "1",
+        "object_repr": "Sold Ginger to Mrs. Joy for 4001.00 at 2025-02-09 15:21:45.846636+00:00 with the status Paid",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Quantity\", \"Amount\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2025-07-01T15:10:52.849Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "object_id": "5",
+        "object_repr": "Sold Pineapple snack to Caleb for 10000.00 at 2025-02-11 14:38:28.767827+00:00 with the status Pending",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Quantity\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2025-07-01T20:44:25.000Z",
+        "user": [
+            "admin1@gmail.com"
+        ],
+        "content_type": [
+            "sales_record",
+            "sales"
+        ],
+        "object_id": "3",
+        "object_repr": "Sold Black seed to Happiness for 12000.00 at 2025-02-10 17:43:41.555098+00:00 with the status Paid",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Amount\"]}}]"
+    }
+}
+]
