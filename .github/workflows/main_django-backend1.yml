@@ -13,6 +13,9 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write       # ✅ needed for OIDC authentication
+      contents: read        # ✅ required for actions/checkout
 
     steps:
       - name: Checkout code
