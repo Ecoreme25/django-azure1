@@ -24,16 +24,16 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'  # ✅ use supported version
+          python-version: '3.11'  # ✅ use supported version
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # - name: Collect static files
-      #   run: |
-      #     python manage.py collectstatic --noinput
+      - name: Collect static files
+        run: |
+          python manage.py collectstatic --noinput
 
       - name: Login to Azure
         uses: azure/login@v2
