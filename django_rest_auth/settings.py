@@ -109,12 +109,12 @@ CSRF_TRUSTED_ORIGINS=[
 
 
 # Local Postgres A
-# DATABASES = {
-#     "default": {
-#         "ENGINE": "django.db.backends.sqlite3",
-#         "NAME": BASE_DIR / "db.sqlite3",
-#     }
-# }
+DATABASES = {
+    "default": {
+        "ENGINE": "django.db.backends.sqlite3",
+        "NAME": BASE_DIR / "db.sqlite3",
+    }
+}
 
 
 # Local Postgres B
@@ -134,13 +134,13 @@ CSRF_TRUSTED_ORIGINS=[
 
 # Remote Postgres A
 # https://railway.com/
-DATABASES = {
-    'default': dj_database_url.parse(
-        "postgresql://postgres:rLZtnuwxWoSjtxdscinZwjRiaAtWcvlv@yamanote.proxy.rlwy.net:34329/railway",
-        conn_max_age=600,
-        ssl_require=True
-    )
-}
+# DATABASES = {
+#     'default': dj_database_url.parse(
+#         "postgresql://postgres:rLZtnuwxWoSjtxdscinZwjRiaAtWcvlv@yamanote.proxy.rlwy.net:34329/railway",
+#         conn_max_age=600,
+#         ssl_require=True
+#     )
+# }
 
 
 

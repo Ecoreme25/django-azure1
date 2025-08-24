@@ -2,7 +2,9 @@ import os
 from .settings import *
 from .settings import BASE_DIR
 
-ALLOWED_HOSTS = [os.environ['WEBSITE_HOSTNAME']]
+#ALLOWED_HOSTS = [os.environ['WEBSITE_HOSTNAME']]
+ALLOWED_HOSTS = ["django-backend1.azurewebsites.net", "localhost"]
+
 CSRF_TRUSTED_ORIGINS = ['https://'+os.environ['WEBSITE_HOSTNAME']]
 DEBUG = False
 SECRET_KEY = os.environ['MY_SECRET_KEY']
@@ -37,18 +39,17 @@ MIDDLEWARE = [
 
 
 
-
 STORAGES = {
     "default": {
         "BACKEND": "django.core.files.storage.FileSystemStorage",
     },
     "staticfiles": {
-        "BACKEND": "whitenoise.storage.CompressedStaticFilesStorage",
+        "BACKEND": "whitenoise.storage.CompressedManifestStaticFilesStorage",
     },
 }
 
-CONNECTION = os.environ['AZURE_POSTGRESQL_CONNECTIONSTRING']
-CONNECTION_STR = {pair.split('=')[0]:pair.split('=')[1] for pair in CONNECTION.split(' ')}
+# CONNECTION = os.environ['AZURE_POSTGRESQL_CONNECTIONSTRING']
+# CONNECTION_STR = {pair.split('=')[0]:pair.split('=')[1] for pair in CONNECTION.split(' ')}
 
 # DATABASES = {
 #     "default": {
@@ -62,12 +63,21 @@ CONNECTION_STR = {pair.split('=')[0]:pair.split('=')[1] for pair in CONNECTION.s
 
 
 DATABASES = {
-    'default': dj_database_url.parse(
-        "postgresql://postgres:rLZtnuwxWoSjtxdscinZwjRiaAtWcvlv@yamanote.proxy.rlwy.net:34329/railway",
-        conn_max_age=600,
-        ssl_require=True
-    )
+    "default": {
+        "ENGINE": "django.db.backends.sqlite3",
+        "NAME": BASE_DIR / "db.sqlite3",
+    }
 }
+
+
+
+# DATABASES = {
+#     'default': dj_database_url.parse(
+#         "postgresql://postgres:rLZtnuwxWoSjtxdscinZwjRiaAtWcvlv@yamanote.proxy.rlwy.net:34329/railway",
+#         conn_max_age=600,
+#         ssl_require=True
+#     )
+# }
 
 
 STATIC_ROOT = BASE_DIR/'staticfiles'
